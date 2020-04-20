@@ -1,0 +1,9 @@
+[submodule "src/Locate64.LocateDB.Reader"]
+	path = src/Locate64.LocateDB.Reader
+	url = https://github.com/Locate64/Locate64.LocateDB.Reader.git
+[submodule "src/Locate64.UI.WinForms"]
+	path = src/Locate64.UI.WinForms
+	url = https://github.com/Locate64/Locate64.UI.WinForms.git
+[submodule "src/Locate64.UI"]
+	path = src/Locate64.UI
+	url = https://github.com/Locate64/Locate64.UI.git
